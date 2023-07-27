@@ -1,4 +1,9 @@
-header{
+.cabeçalho {
     background-color: #a79b9b;
     color: #E8E8E8
+}
+
+.cabeçalho-imagem{
+    width: 10%;
+
 }
