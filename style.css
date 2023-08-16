@@ -1,9 +1,17 @@
-.cabeçalho {
-    background-color: #a79b9b;
-    color: #E8E8E8
+.cabecalho {
+    background-color: #3a63b1;
+    color: #c1daff
+    display: flex;
+    justify-content: space-around;
+    
 }
 
-.cabeçalho-imagem{
-    width: 10%;
+.cabecalho-imagem{
+    width: 5%;
 
+}
+
+.cabecalho-lista-item{ 
+    display: inline-block;
+    margin: 0 16px;
 }
